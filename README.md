@@ -4,7 +4,9 @@ Hack 2019 Flutter Project
 
 ![](/upload/Rec.gif)
 
-> Github Repository Search Portal for Flutter
+## Github Repository Search Portal for Flutter
+
+> Built for International Flutter Hackathon'19 under the theme Code Search
 
 ![](/upload/SS1.png)  ![](/upload/SS2.jpg)  
 
