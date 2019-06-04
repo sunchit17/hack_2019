@@ -6,9 +6,11 @@ Hack 2019 Flutter Project
 
 > Github Repository Search Portal for Flutter
 
-![](/upload/SS1.png)  ![](/upload/SS2.jpg)
+![](/upload/SS1.png)  
 
-![](/upload/SS3.jpg)  ![](/upload/SS4.jpg)
+![](/upload/SS2.jpg)
+
+![](/upload/SS3.jpg)  
 
 ![](/upload/SS5.jpg)
 
