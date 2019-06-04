@@ -2,7 +2,7 @@
 
 Hack 2019 Flutter Project
 
-![](/upload/rec.gif)
+![](/upload/Rec.gif)
 
 > Github Repository Search Portal for Flutter
 
